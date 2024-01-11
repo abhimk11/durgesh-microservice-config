@@ -7,5 +7,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 
-spring.boot.message=Hello Subject!!!
-spring.boot.message1=Hello Student!!!
+spring:
+  boot:
+    message: Hello Subject!!!
+    message1=Hello Student!!!
