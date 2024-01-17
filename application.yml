@@ -9,5 +9,5 @@ eureka:
 
 spring:
   boot:
-    message: Hello Subject updated!!!
+    message: Hello WElcome!!!
     message1: Hello Student updated!!!
